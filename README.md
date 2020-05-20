@@ -1,4 +1,4 @@
-# secret_netflix
+# [WIP] Secret Netflix
 
 ## Project setup
 ```
